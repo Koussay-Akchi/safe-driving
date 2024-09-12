@@ -1,4 +1,3 @@
 # safe-driving
 
-mini-projet data science 2023-24
-hello this is my first commit
+mini-projet Machine Learning 2023-24
